@@ -1,0 +1,13 @@
+/node_modules
+
+/dist
+.DS_Store
+.turbo
+*.tsbuildinfo
+.jest-cache
+.swc
+**/fixtures/*
+/coverage
+.vscode
+.idea
+.pnpm-*.log
