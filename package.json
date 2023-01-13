@@ -7,7 +7,9 @@
   "scripts": {
     "dev": "redbud dev",
     "build": "redbud build",
-    "test": "jest"
+    "test": "jest",
+    "test:strict": "cross-env REACT_MODE=strict jest",
+    "test:coverage": "jest --coverage"
   },
   "keywords": [
     "scripts",
