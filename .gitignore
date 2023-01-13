@@ -6,7 +6,6 @@
 *.tsbuildinfo
 .jest-cache
 .swc
-**/fixtures/*
 /coverage
 .vscode
 .idea
