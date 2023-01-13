@@ -8,8 +8,8 @@
     "dev": "redbud dev",
     "build": "redbud build",
     "test": "jest",
-    "test:strict": "cross-env REACT_MODE=strict jest",
     "test:coverage": "jest --coverage",
+    "tsc:check": "tsc --noEmit",
     "release": "walrus release",
     "release:next": "walrus release --tag next"
   },
