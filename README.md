@@ -39,6 +39,6 @@ import { isFile } from '@walrus/shared';
 [image-2]: https://img.shields.io/npm/dw/@walrus/shared.svg?style=flat
 [codecov-1]: https://codecov.io/github/walrusjs/shared/branch/master/graph/badge.svg?token=EKYDUW28H0
 [codecov-2]: https://codecov.io/github/walrusjs/shared
-[license-1]: https://badgen.net/npm/license/walrusjs/shared
+[license-1]: https://badgen.net/npm/license/@walrus/shared
 [npm-url]: https://www.npmjs.com/package/@walrus/shared
 [issues-1]: https://www.npmjs.com/package/@walrus/shared
